@@ -7,14 +7,20 @@ programming language. Below are the interfaces.
 
 1.1 LoginForm
 
-![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/e73391aa-3164-40a0-9735-0915917e7779)
+![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/065c2f43-2529-448e-8fa1-7bccdea8a851)
+
+![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/59196d4c-782b-4ca6-80fa-5a53c4b0b20e)
 
 
 1.2 RegisterForm
 
-![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/1d813423-ce20-4413-964c-e9700d6dffd7)
+![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/4d4645e2-dbe9-46a8-815f-2f796fc231fd)
+
+![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/8c5582b3-977d-4f8e-b99f-0265b1fe5864)
 
 
 1.3 ResetPasswordForm
 
-![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/0adf2196-583f-4cb7-b975-9f2f5c758250)
+![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/219db683-6460-4418-9d36-6c4e79a4ca09)
+
+![image](https://github.com/mj0305/Staff-Management-System-VB-Net/assets/131598014/cdf8cafa-7d7e-48d0-b8bf-c67745466a40)
